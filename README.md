@@ -1,4 +1,2 @@
 # AP-Operations-Analytics
-This repository used to show the detailed analytics of Accounts payable Operations 
-which help us understand the insight & bottlenecks of Operations on sample dataset.
-suggesting the business to action plan to avoid it in future 
+This repository analyzes Accounts Payable operational metrics using a sample dataset to identify performance bottlenecks and underlying inefficiencies. It delivers strategic recommendations to optimize workflows and prevent recurring operational delays.
